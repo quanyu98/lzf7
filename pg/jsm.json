@@ -70,7 +70,7 @@
 			"api": "csp_TTian",
 			"ext": "http://app.kzjtv.com$$$null$$$1"
 		},
-{"key":"Taohuazu","name":"桃花族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://777631.xyz/$$$socks5://192.168.101.1:1080"},
+{"key":"Taoh","name":"桃花i族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://777631.xyz/$$$socks5://192.168.101.1:1080"},
 		{
 	{
             "key": "Taohuazu",
