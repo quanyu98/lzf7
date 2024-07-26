@@ -446,21 +446,6 @@ i成都,http://ljiang.myqnapcloud.com:8123/udp/239.93.1.104:1234
 星空,http://ljiang.myqnapcloud.com:8123/udp/239.93.1.10:2193
 CHANNEL-V,http://ljiang.myqnapcloud.com:8123/udp/239.93.0.157:2194
 CHANNEL-V,http://ljiang.myqnapcloud.com:8123/udp/239.93.1.7:2194
-测试频道,#genre#
-翡翠台,https://live.hkdvb.com/hls/live/81.m3u8?token=748296093787659
-TVBPlus,https://live.hkdvb.com/hls/live/82.m3u8?token=748296093787659
-NOW新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=748296093787659
-明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=748296093787659
-凤凰卫视香港台,https://live.hkdvb.com/hls/live/85.m3u8?token=748296093787659
-HOY TV,https://live.hkdvb.com/hls/live/77.m3u8?token=748296093787659
-HOY TV 資訊台,https://live.hkdvb.com/hls/live/78.m3u8?token=748296093787659
-ViuTV,https://live.hkdvb.com/hls/live/99.m3u8?token=748296093787659
-ViuTV Six,https://live.hkdvb.com/hls/live/96.m3u8?token=748296093787659
-Now NEWS 新聞台,https://live.hkdvb.com/hls/live/332.m3u8?token=748296093787659
-Now Sports Prime,https://live.hkdvb.com/hls/live/630.m3u8?token=748296093787659
-Now Sports 618,https://live.hkdvb.com/hls/live/618.m3u8?token=748296093787659
-Now Sports 619,https://live.hkdvb.com/hls/live/619.m3u8?token=748296093787659
-Now Sports 688,https://live.hkdvb.com/hls/live/688.m3u8?token=748296093787659
 手机看短剧,#genre#
 逆命神医,https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
 满月之下请相爱,https://vd3.bdstatic.com/mda-pedkenasrhs239n2/sc/cae_h264/1684169079399702313/mda-pedkenasrhs239n2.mp4
@@ -509,76 +494,6 @@ Now Sports 688,https://live.hkdvb.com/hls/live/688.m3u8?token=748296093787659
 昆仑强者,https://vd3.bdstatic.com/mda-peck0hfux97mrc79/720p/h264/1683988862148442153/mda-peck0hfux97mrc79.mp4
 罪妻难逃夜少求放过,https://vd3.bdstatic.com/mda-pidatyprbq4r7sgs/sc/cae_h264/1694741083134075277/mda-pidatyprbq4r7sgs.mp4
 亿万总裁爱上我,https://vd4.bdstatic.com/mda-pidarj60e9258tkd/sc/cae_h264/1694742743328696121/mda-pidarj60e9258tkd.mp4
-央视频,#genre#
-CCTV4k,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
-CCTV8k,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV1,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-CCTV2,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
-CCTV3,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
-CCTV4,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
-CCTV5,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-CCTV5+,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV6,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024086203.m3u8
-CCTV7,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
-CCTV8,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
-CCTV9,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
-CCTV10,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
-CCTV11,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
-CCTV12,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
-CCTV13,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
-CCTV14,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
-CCTV15,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
-CCTV16,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
-CCTV16*4k,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
-CCTV17,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
-CGTN,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181703.m3u8
-CGTN纪录,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182303.m3u8
-CGTN西语,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182103.m3u8
-CGTN法语,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181803.m3u8
-CGTN阿语,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024182003.m3u8
-CGTN俄语,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024181903.m3u8
-四川卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
-北京卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
-重庆卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
-东方卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
-天津卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
-辽宁卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
-山东卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
-安徽卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
-湖北卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
-湖南卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
-江西卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
-江苏卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
-浙江卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
-东南卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
-广东卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
-广西卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
-深圳卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
-贵州卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061603.m3u8
-新疆卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
-河北卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
-河南卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024059703.m3u8
-海南卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
-陕西衛視,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/
-青海衛視,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/
-甘肃衛視,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/
-黑龙江卫视,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
-CCTV兵器科技,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
-CCTV第一剧场,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
-CCTV怀旧剧场,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-CCTV风云剧场,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
-CCTV风云音乐,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
-CCTV风云足球,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV电视指南,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
-CCTV女性时尚,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
-CCTV央视文化,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
-CCTV世界地理,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
-CCTV央视台球,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-CCTV卫生健康,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
-CCTV高尔夫网球,http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
-CCTV6电影,http://122.228.255.176/mobilelive-play.ysp.cctv.cn/ysp/2013693901.m3u8
-CETV1,http://122.228.255.176/mobilelive-play.ysp.cctv.cn/ysp/2022823801.m3u8
-兵团卫视, http://122.228.255.176/mobilelive-play.ysp.cctv.cn/ysp/2022606701.m3u8
 糖豆舞蹈,#genre#
 温州燕子广场舞《一曲红尘》附教学,http://114.115.145.144:8090/cs/gcw.php?id=9050762
 玫香广场舞《多想抱抱你》活力健身舞,http://114.115.145.144:8090/cs/gcw.php?id=20000008075602
